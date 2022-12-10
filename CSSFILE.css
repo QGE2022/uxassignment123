@@ -52,5 +52,9 @@
 .body a:hover{
     background-color: aquamarine;
 }
+pre{font-size: larger;
+    font-weight: bolder;
+
+}
 
 
